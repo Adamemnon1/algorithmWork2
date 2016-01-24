@@ -1,4 +1,3 @@
-# algorithmWork2
 
 These files have my work on creting a working efficient HashTable in Java, wihtout using the
 default HashTable class. 
